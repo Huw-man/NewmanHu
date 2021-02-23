@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Interactive Erosion Simulator on GPU
-description: >
-  A page showing Hydejack-specific markdown content.
-# image: 
-#   path: 
-sitemap: false
-hide_description: true
 ---
 
-# Interactive Erosion Simulator
+# Interactive Erosion Simulator on GPU
+
+Final project for CS184 (Introduction to Computer Graphics) Fall 2020.
+
+details coming soon.
+
