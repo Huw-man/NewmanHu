@@ -10,4 +10,6 @@ hide_description: true
 
 # About
 
-Hello! I'm a 4th year student at UC Berkeley studying Electrical Engineering and Computer Science. My current interests are in VR/AR technology as well as robotics and AI. I'm looking for opportunities where I can leverage my interests with creative and ambitious people.
+Hello! I'm currently a software engineering intern at [Repl.it](https://repl.it/) and recently graduated from UC Berkeley with a B.S in EECS. My current interests are in VR/AR technology as well as robotics and AI. I'm looking for opportunities where I can leverage my interests with creative and ambitious people.
+
+In my free time I like doing many other random activities like flying kites, video games, chess, snowboarding, and biking.
