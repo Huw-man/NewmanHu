@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Improving Retinal Tracking and Stimulus Accuracy under Latency Constraints for AOSLO
+image:
+    path: /assets/img/retinaltracking/cover_photo.png
 ---
 
 Final research project from Computational Color (CS294-164) with [Jason Qiao](https://github.com/jqiao2) and [Leon Xu](https://github.com/leonxu1). 
